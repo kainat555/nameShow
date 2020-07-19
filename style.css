@@ -1,0 +1,15 @@
+div{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 2em;
+}
+body{
+    background-color: aqua;
+    color: blue;
+}
+input{
+    font-size: large;
+}
+button{
+    font-size: large;
+}
